@@ -1,2 +1,2 @@
 Hello World
-adding text for rebase conflicts
+to get conflict in rebase
