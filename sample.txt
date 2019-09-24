@@ -1,3 +1,4 @@
 Hello World
 to get conflict in rebase
 adding some more content
+stashing example
